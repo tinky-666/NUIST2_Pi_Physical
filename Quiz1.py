@@ -1,3 +1,6 @@
+# Author: [HOngrui Ding]
+# Date: [4/4/2025]
+# Description: This program is an animal quiz game. It asks the user a series of questions and calculates the score.
 # NUIST Quiz Game in Python
   def quiz():
       print("Welcome to the Animal Quiz!")
